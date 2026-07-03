@@ -5,27 +5,14 @@
 
 **`🚀 Laravel Developer | 💻 Code Artisan | 🔥 Tech Enthusiast`**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Selamat+datang+di+profile+saya!;Laravel+%7C+Tailwind+%7C+Livewire;Membangun+Digital+Empire+%F0%9F%9A%80" alt="Typing SVG" />
-
----
-
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfpy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfpy&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfpy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Selamat+datang+di+profile+saya!;Laravel+%7C+Tailwind+%7C+Livewire;Membangun+Digital+Empire+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,react,js,html,css,mysql,git,github,vscode,redis,alpinejs,figma" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,tailwind,css,js" />
 </p>
 
 ---
@@ -56,14 +43,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🎵 Currently Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.kitanga.dev/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false" width="40%" />
 </p>
 
 ---
