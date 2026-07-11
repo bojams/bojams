@@ -21,10 +21,9 @@
 
 | Project | Status | Tech |
 |---------|--------|------|
-| 🛍️ **Laravel E-Commerce** | 🔨 In Progress | Laravel 12 + Tailwind |
+| 🛍️ **Laravel E-Commerce** | 🔜 Coming Soon  | Laravel 12 + Tailwind |
 | 🎨 **Personal Portfolio** | 📝 Planning | React + Tailwind |
 | 📊 **Admin Dashboard** | 🔜 Coming Soon | Laravel + Filament |
-| 📱 **Mobile API** | 💡 Idea | Laravel + Sanctum |
 
 ---
 
